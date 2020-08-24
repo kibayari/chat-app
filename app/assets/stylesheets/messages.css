@@ -87,7 +87,8 @@
   overflow: scroll;
 }
 
-margin: 10px 0;
+.message{
+  margin: 10px 0;
 }
 
 .upper-message{
